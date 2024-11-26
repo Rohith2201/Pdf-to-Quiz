@@ -48,4 +48,3 @@ This project is built with the following technologies:
 ```
 
 
-Feel free to tweak this based on your preferences!
