@@ -16,3 +16,7 @@ To learn more about Vercel AI SDK or Next.js take a look at the following resour
 - [Vercel AI Playground](https://play.vercel.ai)
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 
+## 👨‍💻 The Stack
+<div align="center">
+<img src= "https://tech-orbit.wontory.dev/api?title=Pdf%20to%20Quiz&tech=Next.js,Tailwind%20CSS,JSON,TypeScript,CSS3,Vercel,Google%20Gemini&size=750&duration=20">
+</div>
