@@ -1,4 +1,3 @@
-Here's a polished README file for your "PDF to Quiz" project on GitHub, including the instructions and resources provided:  
 
 ```markdown
 # 📘 PDF to Quiz
